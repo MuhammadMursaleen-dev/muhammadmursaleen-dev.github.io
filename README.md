@@ -279,12 +279,14 @@ https://muhammadmursaleen-dev.github.io/
 🚀 Explore My Portfolio
 
 
-👉 OPEN PORTFOLIO WEBSITE 👈⁠
+<h2>👉 OPEN PORTFOLIO WEBSITE 👈⁠</h2>
 
 
 Skills • Projects • Learning Journey • Roadmap • Contact
 
+
 ⭐ Thanks for Visiting My GitHub!
+
 
 Muhammad Mursaleen
 BS Artificial Intelligence Student
