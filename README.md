@@ -312,8 +312,6 @@ I'm always interested in connecting with people interested in:
 Python • Automation • Software Development • Artificial Intelligence
 📧 Email
 muhammadkhan786business.com@gmail.com
-💬 WhatsApp
-📱 Chat on WhatsApp⁠�
 📞 Phone
 +92 332 7491103
 💻 GitHub
