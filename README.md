@@ -184,48 +184,6 @@ My Python learning journey containing practice programs, experiments, exercises,
 
 ---
 
-# 📈 My Learning Roadmap
-
-My long-term learning path is structured around gradually moving from programming fundamentals toward Artificial Intelligence.
-
-
-┌─────────────────────────┐
-│   Python Fundamentals   │
-└────────────┬────────────┘
-             ↓
-┌─────────────────────────┐
-│ Projects & Automation   │
-└────────────┬────────────┘
-             ↓
-┌─────────────────────────┐
-│    Excel Automation     │
-└────────────┬────────────┘
-             ↓
-┌─────────────────────────┐
-│     Advanced Python     │
-└────────────┬────────────┘
-             ↓
-┌─────────────────────────┐
-│ Data Structures & Algo  │
-└────────────┬────────────┘
-             ↓
-┌─────────────────────────┐
-│    Data Analysis + SQL  │
-└────────────┬────────────┘
-             ↓
-┌─────────────────────────┐
-│   Machine Learning      │
-└────────────┬────────────┘
-             ↓
-┌─────────────────────────┐
-│    Deep Learning        │
-└────────────┬────────────┘
-             ↓
-┌─────────────────────────┐
-│ Artificial Intelligence │
-└─────────────────────────┘
----
-
 # 📂 My GitHub Repositories
 
 | 📌 Project | 🔗 Repository |
@@ -257,7 +215,7 @@ Currently, I am focusing on:
               ↓
 📊 Data Analysis & SQL
 
----
+
 📚 Learning Philosophy
 I believe programming becomes stronger when concepts are actually used in real projects.
 My learning process focuses on:
@@ -269,9 +227,8 @@ My learning process focuses on:
 🔧 Improving existing projects
 📈 Gradually moving toward advanced concepts
 
---
 
-📊 Development Journey
+<h2>📊 Development Journey</h2>
 
 Python Basics
       ✓
@@ -301,43 +258,29 @@ Deep Learning
       ⏳
       ↓
 Artificial Intelligence
-      ⏳
-📌 Legend
-Symbol
-Status
-✓
-Completed / Practiced
-🚧
-Currently Working
-⏳
-Future Goal
 
----
 
-📬 Contact Me
+<h2>📬 Contact Me</h2>
 
-I'm always interested in connecting with people interested in:
-Python • Automation • Software Development • Artificial Intelligence
-
----
 
 📧 Email
 
 muhammadkhan786business.com@gmail.com
 
 💻 GitHub
-
-🔗 MuhammadMursaleen-dev⁠�
+https://github.com/MuhammadMursaleen-dev/MuhammadMursaleen-dev
 
 🔗 LinkedIn
-🔗 Muhammad Mursaleen on LinkedIn⁠�
+https://www.linkedin.com/in/muhammad-mursaleen-0684a7434/
 
 🌐 Portfolio Website
 https://muhammadmursaleen-dev.github.io/
 
 🚀 Explore My Portfolio
 
+
 👉 OPEN PORTFOLIO WEBSITE 👈⁠
+
 
 Skills • Projects • Learning Journey • Roadmap • Contact
 
