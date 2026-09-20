@@ -188,7 +188,7 @@ My Python learning journey containing practice programs, experiments, exercises,
 
 My long-term learning path is structured around gradually moving from programming fundamentals toward Artificial Intelligence.
 
-```text
+
 ┌─────────────────────────┐
 │   Python Fundamentals   │
 └────────────┬────────────┘
@@ -244,7 +244,7 @@ My long-term learning path is structured around gradually moving from programmin
 
 Currently, I am focusing on:
 
-```text
+
 🐍 Improving Python Programming
               ↓
 ⚙️ Building Automation Projects
@@ -268,7 +268,11 @@ My learning process focuses on:
 🐛 Debugging errors
 🔧 Improving existing projects
 📈 Gradually moving toward advanced concepts
+
+--
+
 📊 Development Journey
+
 Python Basics
       ✓
       ↓
@@ -307,30 +311,38 @@ Completed / Practiced
 Currently Working
 ⏳
 Future Goal
+
+---
+
 📬 Contact Me
+
 I'm always interested in connecting with people interested in:
 Python • Automation • Software Development • Artificial Intelligence
+
+---
+
 📧 Email
+
 muhammadkhan786business.com@gmail.com
-chat on whatsapp
- whatsapp
-📞 Phone
-+92 332 7491103
+
 💻 GitHub
+
 🔗 MuhammadMursaleen-dev⁠�
+
 🔗 LinkedIn
 🔗 Muhammad Mursaleen on LinkedIn⁠�
+
 🌐 Portfolio Website
-�
+https://muhammadmursaleen-dev.github.io/
 
 🚀 Explore My Portfolio
-👉 OPEN PORTFOLIO WEBSITE 👈⁠�
-Skills • Projects • Learning Journey • Roadmap • Contact
-�
 
-�
+👉 OPEN PORTFOLIO WEBSITE 👈⁠
+
+Skills • Projects • Learning Journey • Roadmap • Contact
 
 ⭐ Thanks for Visiting My GitHub!
+
 Muhammad Mursaleen
 BS Artificial Intelligence Student
 Python & Automation Learner
